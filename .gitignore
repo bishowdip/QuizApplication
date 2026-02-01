@@ -1,0 +1,18 @@
+/.metadata/# macOS
+.DS_Store
+
+# Eclipse / IDE
+.metadata/
+.project
+.classpath
+.settings/
+
+# Java
+bin/
+*.class
+
+# Database
+*.db
+
+# Logs
+*.log
